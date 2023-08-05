@@ -1,0 +1,5 @@
+name: RandomKits
+version: '${version}'
+main: be.artex.randomkits.Main
+load: STARTUP
+commands:
